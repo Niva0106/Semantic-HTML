@@ -16,7 +16,7 @@ A simple landing page built using HTML5 semantic elements, focusing on proper pa
 - HTML5
 
 ## Live Demo
-[View Website](YOUR_GITHUB_PAGES_URL)
+[View Website](https://niva0106.github.io/Semantic-HTML/)
 
 ## Author
 Niveditha N
